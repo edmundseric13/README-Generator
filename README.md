@@ -17,11 +17,17 @@
 
   ## Installation
 
-  N/A
+  1. Ensure you have Node.js installed on your local machine
+
+  2. Clone the repo to your local machine
+
+  3. Navigate to the project directory
+
+  4. Install all necessary dependencies
 
   ## Usage
 
-  Just run node index.js and follow the prompted questions.
+  Run node index.js in an integrated terminal
 
   ## License
 
